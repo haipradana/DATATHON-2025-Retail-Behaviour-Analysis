@@ -1,4 +1,4 @@
-# DATATHON-2025-Supermarket-Behaviour-Analysis
+# DATATHON-2025-Supermarket
 '''list dulu aja, rapiin kemudian. remind me to rename some of HF repos below'''
 
 ## Datasets HuggingFace
