@@ -7,4 +7,4 @@
 
 ## Models HuggingFace
 - Model hasil pretrain dengan MERL Dataset 5 jam: https://huggingface.co/haipradana/test-m-e-r-l
-- Model hasil fine tune kecil2an (ngga terasa bedanya): haipradana/s-h-o-p-domain-adaptation
+- Model hasil fine tune kecil2an (ngga trrlalu terasa bedanya): https://huggingface.co/haipradana/s-h-o-p-domain-adaptation
