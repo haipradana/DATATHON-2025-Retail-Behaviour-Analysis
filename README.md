@@ -1,4 +1,4 @@
-# DATATHON-2025-Supermarket-Behaviour-Analysis
+# DATATHON-2025-Supermarket
 '''list dulu aja, rapiin kemudian. remind me to rename some of HF repos below'''
 
 ## Datasets HuggingFace
@@ -7,4 +7,4 @@
 
 ## Models HuggingFace
 - Model hasil pretrain dengan MERL Dataset 5 jam: https://huggingface.co/haipradana/test-m-e-r-l
-- Model hasil fine tune kecil2an (ngga terasa bedanya): 
+- Model hasil fine tune kecil2an (ngga trrlalu terasa bedanya): https://huggingface.co/haipradana/s-h-o-p-domain-adaptation
