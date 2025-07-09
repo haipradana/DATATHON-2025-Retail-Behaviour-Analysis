@@ -1,0 +1,38 @@
+shelf_id,action,count
+shelf_3,Hand In Shelf,8
+shelf_4,Hand In Shelf,280
+shelf_4,Inspect Product,222
+shelf_3,Inspect Product,15
+shelf_4,Reach To Shelf,64
+shelf_1,Retract From Shelf,44
+shelf_1,Inspect Shelf,47
+shelf_1,Inspect Product,64
+shelf_1,Hand In Shelf,212
+shelf_8,Hand In Shelf,92
+shelf_1,Reach To Shelf,98
+shelf_8,Reach To Shelf,39
+shelf_8,Retract From Shelf,22
+shelf_8,Inspect Shelf,27
+shelf_9,Hand In Shelf,86
+shelf_9,Reach To Shelf,11
+shelf_9,Retract From Shelf,12
+shelf_9,Inspect Product,9
+shelf_2,Reach To Shelf,7
+shelf_2,Inspect Shelf,1
+shelf_2,Background,11
+shelf_2,Hand In Shelf,23
+shelf_6,Retract From Shelf,20
+shelf_6,Hand In Shelf,118
+shelf_6,Inspect Product,126
+shelf_5,Hand In Shelf,3
+shelf_5,Background,8
+shelf_5,Inspect Product,10
+shelf_3,Retract From Shelf,8
+shelf_4,Retract From Shelf,72
+shelf_4,Background,55
+shelf_3,Background,1
+shelf_6,Inspect Shelf,25
+shelf_6,Background,16
+shelf_6,Reach To Shelf,21
+shelf_9,Background,9
+shelf_1,Background,7

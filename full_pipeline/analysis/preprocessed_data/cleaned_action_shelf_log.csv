@@ -1,0 +1,1416 @@
+pid,frame,shelf_id,action
+1,0,shelf_3,Hand In Shelf
+1,1,shelf_3,Hand In Shelf
+1,2,shelf_3,Hand In Shelf
+1,3,shelf_3,Hand In Shelf
+1,4,shelf_3,Hand In Shelf
+1,5,shelf_3,Hand In Shelf
+1,6,shelf_3,Hand In Shelf
+1,7,shelf_3,Hand In Shelf
+1,8,shelf_4,Inspect Product
+1,9,shelf_4,Inspect Product
+1,10,shelf_4,Inspect Product
+1,11,shelf_4,Inspect Product
+1,12,shelf_4,Inspect Product
+1,13,shelf_4,Inspect Product
+1,14,shelf_4,Inspect Product
+1,15,shelf_4,Inspect Product
+1,16,shelf_4,Inspect Product
+1,17,shelf_4,Inspect Product
+1,18,shelf_4,Inspect Product
+1,19,shelf_4,Inspect Product
+1,20,shelf_4,Inspect Product
+1,21,shelf_4,Inspect Product
+1,22,shelf_4,Inspect Product
+1,23,shelf_4,Inspect Product
+1,24,shelf_3,Inspect Product
+1,25,shelf_4,Inspect Product
+1,26,shelf_4,Inspect Product
+1,27,shelf_4,Inspect Product
+1,28,shelf_4,Inspect Product
+1,29,shelf_4,Inspect Product
+1,30,shelf_4,Inspect Product
+1,31,shelf_4,Inspect Product
+1,32,shelf_4,Inspect Product
+1,33,shelf_4,Inspect Product
+1,34,shelf_4,Inspect Product
+1,35,shelf_4,Inspect Product
+1,36,shelf_4,Inspect Product
+1,37,shelf_4,Inspect Product
+1,38,shelf_4,Inspect Product
+1,39,shelf_4,Inspect Product
+1,40,shelf_4,Hand In Shelf
+1,41,shelf_4,Hand In Shelf
+1,42,shelf_4,Hand In Shelf
+1,43,shelf_4,Hand In Shelf
+1,44,shelf_4,Hand In Shelf
+1,45,shelf_4,Hand In Shelf
+1,46,shelf_4,Hand In Shelf
+1,47,shelf_4,Hand In Shelf
+1,48,shelf_4,Hand In Shelf
+1,49,shelf_4,Hand In Shelf
+1,50,shelf_4,Hand In Shelf
+1,51,shelf_4,Hand In Shelf
+1,52,shelf_4,Hand In Shelf
+1,53,shelf_4,Hand In Shelf
+1,54,shelf_4,Hand In Shelf
+1,55,shelf_4,Hand In Shelf
+1,56,shelf_4,Hand In Shelf
+1,57,shelf_4,Hand In Shelf
+1,58,shelf_4,Hand In Shelf
+1,59,shelf_4,Hand In Shelf
+1,60,shelf_4,Hand In Shelf
+1,61,shelf_4,Hand In Shelf
+1,62,shelf_4,Hand In Shelf
+1,63,shelf_4,Hand In Shelf
+1,64,shelf_4,Hand In Shelf
+1,65,shelf_4,Hand In Shelf
+1,66,shelf_4,Hand In Shelf
+1,67,shelf_4,Hand In Shelf
+1,68,shelf_4,Hand In Shelf
+1,69,shelf_4,Hand In Shelf
+1,70,shelf_4,Hand In Shelf
+1,71,shelf_4,Hand In Shelf
+1,72,shelf_4,Hand In Shelf
+1,73,shelf_4,Hand In Shelf
+1,74,shelf_4,Hand In Shelf
+1,75,shelf_4,Hand In Shelf
+1,76,shelf_4,Hand In Shelf
+1,77,shelf_4,Hand In Shelf
+1,78,shelf_4,Hand In Shelf
+1,79,shelf_4,Hand In Shelf
+1,80,shelf_4,Hand In Shelf
+1,81,shelf_4,Hand In Shelf
+1,82,shelf_4,Hand In Shelf
+1,83,shelf_4,Hand In Shelf
+1,84,shelf_4,Hand In Shelf
+1,85,shelf_4,Hand In Shelf
+1,86,shelf_4,Hand In Shelf
+1,87,shelf_4,Hand In Shelf
+1,88,shelf_4,Inspect Product
+1,89,shelf_4,Inspect Product
+1,90,shelf_4,Inspect Product
+1,91,shelf_4,Inspect Product
+1,92,shelf_4,Inspect Product
+1,93,shelf_4,Inspect Product
+1,94,shelf_4,Inspect Product
+1,95,shelf_4,Inspect Product
+1,96,shelf_4,Inspect Product
+1,97,shelf_4,Inspect Product
+1,98,shelf_4,Inspect Product
+1,99,shelf_4,Inspect Product
+1,100,shelf_4,Inspect Product
+1,101,shelf_4,Inspect Product
+1,102,shelf_4,Inspect Product
+1,103,shelf_4,Inspect Product
+1,104,shelf_4,Inspect Product
+1,105,shelf_4,Inspect Product
+1,106,shelf_4,Inspect Product
+1,107,shelf_4,Inspect Product
+1,108,shelf_4,Inspect Product
+1,109,shelf_4,Inspect Product
+1,110,shelf_4,Inspect Product
+1,111,shelf_4,Inspect Product
+1,112,shelf_4,Inspect Product
+1,113,shelf_4,Inspect Product
+1,114,shelf_4,Inspect Product
+1,115,shelf_4,Inspect Product
+1,116,shelf_4,Inspect Product
+1,117,shelf_4,Inspect Product
+1,118,shelf_4,Inspect Product
+1,119,shelf_4,Inspect Product
+1,120,shelf_4,Hand In Shelf
+1,121,shelf_4,Hand In Shelf
+1,122,shelf_4,Hand In Shelf
+1,123,shelf_4,Hand In Shelf
+1,124,shelf_4,Hand In Shelf
+1,125,shelf_4,Hand In Shelf
+1,126,shelf_4,Hand In Shelf
+1,127,shelf_4,Hand In Shelf
+1,128,shelf_4,Hand In Shelf
+1,129,shelf_4,Hand In Shelf
+1,130,shelf_4,Hand In Shelf
+1,131,shelf_4,Hand In Shelf
+1,132,shelf_4,Hand In Shelf
+1,133,shelf_4,Hand In Shelf
+1,134,shelf_4,Hand In Shelf
+1,135,shelf_4,Hand In Shelf
+1,136,shelf_4,Hand In Shelf
+1,137,shelf_4,Hand In Shelf
+1,138,shelf_4,Hand In Shelf
+1,139,shelf_4,Hand In Shelf
+1,140,shelf_4,Hand In Shelf
+1,141,shelf_4,Hand In Shelf
+1,142,shelf_4,Hand In Shelf
+1,143,shelf_4,Hand In Shelf
+1,144,shelf_4,Hand In Shelf
+1,145,shelf_4,Hand In Shelf
+1,146,shelf_4,Hand In Shelf
+1,147,shelf_4,Hand In Shelf
+1,148,shelf_4,Hand In Shelf
+1,149,shelf_4,Hand In Shelf
+1,150,shelf_4,Hand In Shelf
+1,151,shelf_4,Hand In Shelf
+1,152,shelf_4,Hand In Shelf
+1,153,shelf_4,Hand In Shelf
+1,154,shelf_4,Hand In Shelf
+1,155,shelf_4,Hand In Shelf
+1,156,shelf_4,Hand In Shelf
+1,157,shelf_4,Hand In Shelf
+1,158,shelf_4,Hand In Shelf
+1,159,shelf_4,Hand In Shelf
+1,160,shelf_4,Hand In Shelf
+1,161,shelf_4,Hand In Shelf
+1,162,shelf_4,Hand In Shelf
+1,163,shelf_4,Hand In Shelf
+1,164,shelf_4,Hand In Shelf
+1,165,shelf_4,Hand In Shelf
+1,166,shelf_4,Hand In Shelf
+1,167,shelf_4,Hand In Shelf
+1,168,shelf_4,Hand In Shelf
+1,169,shelf_4,Hand In Shelf
+1,170,shelf_4,Hand In Shelf
+1,171,shelf_4,Hand In Shelf
+1,172,shelf_4,Hand In Shelf
+1,173,shelf_4,Hand In Shelf
+1,174,shelf_4,Hand In Shelf
+1,175,shelf_4,Hand In Shelf
+1,176,shelf_4,Hand In Shelf
+1,177,shelf_4,Hand In Shelf
+1,178,shelf_4,Hand In Shelf
+1,179,shelf_4,Hand In Shelf
+1,180,shelf_4,Hand In Shelf
+1,181,shelf_4,Hand In Shelf
+1,182,shelf_4,Hand In Shelf
+1,183,shelf_4,Hand In Shelf
+1,184,shelf_4,Hand In Shelf
+1,185,shelf_4,Hand In Shelf
+1,186,shelf_4,Hand In Shelf
+1,187,shelf_4,Hand In Shelf
+1,188,shelf_4,Hand In Shelf
+1,189,shelf_4,Hand In Shelf
+1,190,shelf_4,Hand In Shelf
+1,191,shelf_4,Hand In Shelf
+1,192,shelf_4,Hand In Shelf
+1,193,shelf_4,Hand In Shelf
+1,194,shelf_4,Hand In Shelf
+1,195,shelf_4,Hand In Shelf
+1,196,shelf_4,Hand In Shelf
+1,197,shelf_4,Hand In Shelf
+1,198,shelf_4,Hand In Shelf
+1,199,shelf_4,Hand In Shelf
+1,200,shelf_4,Hand In Shelf
+1,201,shelf_4,Hand In Shelf
+1,202,shelf_4,Hand In Shelf
+1,203,shelf_4,Hand In Shelf
+1,204,shelf_4,Hand In Shelf
+1,205,shelf_4,Hand In Shelf
+1,206,shelf_4,Hand In Shelf
+1,207,shelf_4,Hand In Shelf
+1,208,shelf_4,Hand In Shelf
+1,209,shelf_4,Hand In Shelf
+1,210,shelf_4,Hand In Shelf
+1,211,shelf_4,Hand In Shelf
+1,212,shelf_4,Hand In Shelf
+1,213,shelf_4,Hand In Shelf
+1,214,shelf_4,Hand In Shelf
+1,215,shelf_4,Hand In Shelf
+1,216,shelf_4,Hand In Shelf
+1,217,shelf_4,Hand In Shelf
+1,218,shelf_4,Hand In Shelf
+1,219,shelf_4,Hand In Shelf
+1,220,shelf_4,Hand In Shelf
+1,221,shelf_4,Hand In Shelf
+1,222,shelf_4,Hand In Shelf
+1,223,shelf_4,Hand In Shelf
+1,224,shelf_4,Inspect Product
+1,225,shelf_4,Inspect Product
+1,226,shelf_4,Inspect Product
+1,227,shelf_4,Inspect Product
+1,228,shelf_4,Inspect Product
+1,229,shelf_4,Inspect Product
+1,230,shelf_4,Inspect Product
+1,231,shelf_4,Inspect Product
+1,232,shelf_4,Reach To Shelf
+1,233,shelf_4,Reach To Shelf
+1,234,shelf_4,Reach To Shelf
+1,235,shelf_4,Reach To Shelf
+1,236,shelf_4,Reach To Shelf
+1,237,shelf_4,Reach To Shelf
+1,238,shelf_4,Reach To Shelf
+1,239,shelf_4,Reach To Shelf
+1,240,shelf_4,Reach To Shelf
+1,241,shelf_4,Reach To Shelf
+1,242,shelf_4,Reach To Shelf
+1,243,shelf_4,Reach To Shelf
+1,244,shelf_4,Reach To Shelf
+1,245,shelf_4,Reach To Shelf
+1,246,shelf_4,Reach To Shelf
+1,247,shelf_4,Reach To Shelf
+1,248,shelf_4,Hand In Shelf
+1,249,shelf_4,Hand In Shelf
+1,250,shelf_4,Hand In Shelf
+1,251,shelf_4,Hand In Shelf
+1,252,shelf_4,Hand In Shelf
+1,253,shelf_4,Hand In Shelf
+1,254,shelf_4,Hand In Shelf
+1,255,shelf_4,Hand In Shelf
+2,0,shelf_1,Retract From Shelf
+2,1,shelf_1,Retract From Shelf
+2,2,shelf_1,Retract From Shelf
+2,3,shelf_1,Retract From Shelf
+2,4,shelf_1,Retract From Shelf
+2,5,shelf_1,Retract From Shelf
+2,6,shelf_1,Retract From Shelf
+2,7,shelf_1,Retract From Shelf
+2,8,shelf_1,Retract From Shelf
+2,9,shelf_1,Retract From Shelf
+2,10,shelf_1,Retract From Shelf
+2,11,shelf_1,Retract From Shelf
+2,12,shelf_1,Retract From Shelf
+2,13,shelf_1,Retract From Shelf
+2,14,shelf_1,Retract From Shelf
+2,15,shelf_1,Retract From Shelf
+2,16,shelf_1,Retract From Shelf
+2,17,shelf_1,Retract From Shelf
+2,18,shelf_1,Retract From Shelf
+2,19,shelf_1,Retract From Shelf
+2,20,shelf_1,Retract From Shelf
+2,21,shelf_1,Retract From Shelf
+2,22,shelf_1,Retract From Shelf
+2,23,shelf_1,Retract From Shelf
+2,24,shelf_1,Inspect Product
+2,25,shelf_1,Inspect Product
+2,26,shelf_1,Inspect Product
+2,27,shelf_1,Inspect Product
+2,28,shelf_1,Inspect Product
+2,29,shelf_1,Inspect Product
+2,30,shelf_1,Inspect Product
+2,31,shelf_1,Inspect Product
+2,32,shelf_1,Inspect Product
+2,33,shelf_1,Inspect Product
+2,34,shelf_1,Inspect Product
+2,35,shelf_1,Inspect Product
+2,36,shelf_1,Inspect Product
+2,37,shelf_1,Inspect Product
+2,38,shelf_1,Inspect Product
+2,39,shelf_1,Inspect Product
+2,40,shelf_1,Hand In Shelf
+2,41,shelf_1,Hand In Shelf
+2,42,shelf_8,Hand In Shelf
+2,43,shelf_8,Hand In Shelf
+2,44,shelf_8,Hand In Shelf
+2,45,shelf_8,Hand In Shelf
+2,46,shelf_8,Hand In Shelf
+2,47,shelf_8,Hand In Shelf
+2,48,shelf_1,Reach To Shelf
+2,49,shelf_1,Reach To Shelf
+2,50,shelf_1,Reach To Shelf
+2,51,shelf_1,Reach To Shelf
+2,52,shelf_1,Reach To Shelf
+2,53,shelf_1,Reach To Shelf
+2,54,shelf_1,Reach To Shelf
+2,55,shelf_1,Reach To Shelf
+2,56,shelf_1,Retract From Shelf
+2,57,shelf_1,Retract From Shelf
+2,58,shelf_1,Retract From Shelf
+2,59,shelf_8,Retract From Shelf
+2,60,shelf_8,Retract From Shelf
+2,61,shelf_1,Retract From Shelf
+2,62,shelf_8,Retract From Shelf
+2,63,shelf_8,Retract From Shelf
+2,64,shelf_8,Retract From Shelf
+2,65,shelf_8,Retract From Shelf
+2,66,shelf_1,Retract From Shelf
+2,67,shelf_1,Retract From Shelf
+2,68,shelf_1,Retract From Shelf
+2,69,shelf_1,Retract From Shelf
+2,70,shelf_1,Retract From Shelf
+2,71,shelf_1,Retract From Shelf
+2,72,shelf_8,Inspect Shelf
+2,73,shelf_8,Inspect Shelf
+2,74,shelf_8,Inspect Shelf
+2,75,shelf_8,Inspect Shelf
+2,76,shelf_8,Inspect Shelf
+2,77,shelf_8,Inspect Shelf
+2,78,shelf_8,Inspect Shelf
+2,79,shelf_8,Inspect Shelf
+2,80,shelf_8,Hand In Shelf
+2,81,shelf_9,Hand In Shelf
+2,82,shelf_9,Hand In Shelf
+2,83,shelf_9,Hand In Shelf
+2,84,shelf_9,Hand In Shelf
+2,85,shelf_9,Hand In Shelf
+2,86,shelf_9,Hand In Shelf
+2,87,shelf_9,Hand In Shelf
+2,88,shelf_9,Hand In Shelf
+2,89,shelf_9,Hand In Shelf
+2,90,shelf_9,Hand In Shelf
+2,91,shelf_9,Hand In Shelf
+2,92,shelf_9,Hand In Shelf
+2,93,shelf_9,Hand In Shelf
+2,94,shelf_9,Hand In Shelf
+2,95,shelf_9,Hand In Shelf
+2,96,shelf_9,Reach To Shelf
+2,102,shelf_9,Reach To Shelf
+2,103,shelf_9,Reach To Shelf
+2,104,shelf_9,Retract From Shelf
+2,105,shelf_9,Retract From Shelf
+2,106,shelf_8,Retract From Shelf
+2,107,shelf_8,Retract From Shelf
+2,108,shelf_8,Retract From Shelf
+2,109,shelf_8,Retract From Shelf
+2,110,shelf_8,Retract From Shelf
+2,111,shelf_8,Retract From Shelf
+2,112,shelf_8,Retract From Shelf
+2,113,shelf_8,Retract From Shelf
+2,114,shelf_8,Retract From Shelf
+2,115,shelf_8,Retract From Shelf
+2,116,shelf_8,Retract From Shelf
+2,117,shelf_8,Retract From Shelf
+2,118,shelf_8,Retract From Shelf
+2,119,shelf_8,Retract From Shelf
+2,120,shelf_8,Hand In Shelf
+2,121,shelf_8,Hand In Shelf
+2,122,shelf_8,Hand In Shelf
+2,123,shelf_8,Hand In Shelf
+2,124,shelf_8,Hand In Shelf
+2,125,shelf_8,Hand In Shelf
+2,126,shelf_8,Hand In Shelf
+2,127,shelf_8,Hand In Shelf
+2,128,shelf_8,Hand In Shelf
+2,129,shelf_8,Hand In Shelf
+2,130,shelf_8,Hand In Shelf
+2,131,shelf_8,Hand In Shelf
+2,132,shelf_8,Hand In Shelf
+2,133,shelf_8,Hand In Shelf
+2,134,shelf_8,Hand In Shelf
+2,135,shelf_8,Hand In Shelf
+2,136,shelf_8,Hand In Shelf
+2,137,shelf_1,Hand In Shelf
+2,138,shelf_8,Hand In Shelf
+2,139,shelf_8,Hand In Shelf
+2,140,shelf_8,Hand In Shelf
+2,141,shelf_8,Hand In Shelf
+2,142,shelf_8,Hand In Shelf
+2,143,shelf_9,Hand In Shelf
+2,144,shelf_9,Hand In Shelf
+2,145,shelf_8,Hand In Shelf
+2,146,shelf_8,Hand In Shelf
+2,147,shelf_8,Hand In Shelf
+2,148,shelf_8,Hand In Shelf
+2,149,shelf_8,Hand In Shelf
+2,150,shelf_8,Hand In Shelf
+2,151,shelf_8,Hand In Shelf
+2,152,shelf_8,Hand In Shelf
+2,153,shelf_8,Hand In Shelf
+2,154,shelf_8,Hand In Shelf
+2,162,shelf_1,Hand In Shelf
+2,163,shelf_1,Hand In Shelf
+2,164,shelf_1,Hand In Shelf
+2,165,shelf_1,Hand In Shelf
+2,166,shelf_1,Hand In Shelf
+2,167,shelf_1,Hand In Shelf
+2,168,shelf_1,Hand In Shelf
+2,169,shelf_1,Hand In Shelf
+2,170,shelf_1,Hand In Shelf
+2,171,shelf_1,Hand In Shelf
+2,172,shelf_1,Hand In Shelf
+2,173,shelf_1,Hand In Shelf
+2,174,shelf_1,Hand In Shelf
+2,175,shelf_1,Hand In Shelf
+2,176,shelf_1,Hand In Shelf
+2,177,shelf_1,Hand In Shelf
+2,178,shelf_1,Hand In Shelf
+2,179,shelf_1,Hand In Shelf
+2,180,shelf_1,Hand In Shelf
+2,181,shelf_1,Hand In Shelf
+2,182,shelf_1,Hand In Shelf
+2,183,shelf_1,Hand In Shelf
+3,29,shelf_1,Hand In Shelf
+3,30,shelf_1,Hand In Shelf
+3,31,shelf_1,Hand In Shelf
+3,32,shelf_1,Hand In Shelf
+3,33,shelf_1,Hand In Shelf
+3,40,shelf_8,Hand In Shelf
+3,42,shelf_8,Hand In Shelf
+3,43,shelf_8,Hand In Shelf
+3,44,shelf_8,Hand In Shelf
+3,45,shelf_8,Hand In Shelf
+3,46,shelf_8,Hand In Shelf
+3,47,shelf_8,Hand In Shelf
+3,57,shelf_8,Hand In Shelf
+3,58,shelf_8,Hand In Shelf
+3,60,shelf_8,Hand In Shelf
+3,61,shelf_8,Hand In Shelf
+3,65,shelf_8,Hand In Shelf
+3,78,shelf_9,Hand In Shelf
+3,79,shelf_9,Hand In Shelf
+3,84,shelf_9,Hand In Shelf
+3,85,shelf_9,Hand In Shelf
+3,86,shelf_9,Hand In Shelf
+3,87,shelf_9,Hand In Shelf
+3,88,shelf_9,Hand In Shelf
+3,89,shelf_9,Hand In Shelf
+3,90,shelf_9,Hand In Shelf
+3,91,shelf_9,Hand In Shelf
+3,92,shelf_9,Hand In Shelf
+3,93,shelf_9,Hand In Shelf
+3,94,shelf_9,Hand In Shelf
+3,95,shelf_9,Hand In Shelf
+3,96,shelf_9,Hand In Shelf
+3,97,shelf_9,Hand In Shelf
+3,98,shelf_9,Hand In Shelf
+3,99,shelf_9,Hand In Shelf
+3,100,shelf_9,Hand In Shelf
+3,101,shelf_9,Hand In Shelf
+3,102,shelf_9,Hand In Shelf
+3,103,shelf_9,Hand In Shelf
+3,104,shelf_9,Hand In Shelf
+3,105,shelf_9,Hand In Shelf
+3,140,shelf_9,Hand In Shelf
+3,141,shelf_9,Hand In Shelf
+3,142,shelf_9,Hand In Shelf
+3,143,shelf_9,Hand In Shelf
+3,144,shelf_9,Hand In Shelf
+3,145,shelf_9,Hand In Shelf
+3,147,shelf_8,Hand In Shelf
+3,148,shelf_8,Hand In Shelf
+3,150,shelf_9,Hand In Shelf
+3,151,shelf_9,Hand In Shelf
+3,152,shelf_9,Inspect Product
+3,189,shelf_1,Hand In Shelf
+3,190,shelf_1,Hand In Shelf
+3,211,shelf_9,Hand In Shelf
+4,22,shelf_1,Reach To Shelf
+4,29,shelf_2,Reach To Shelf
+4,30,shelf_2,Reach To Shelf
+4,38,shelf_2,Reach To Shelf
+4,39,shelf_2,Reach To Shelf
+4,43,shelf_2,Reach To Shelf
+4,45,shelf_2,Reach To Shelf
+4,47,shelf_2,Reach To Shelf
+4,48,shelf_1,Reach To Shelf
+4,49,shelf_1,Reach To Shelf
+4,52,shelf_1,Reach To Shelf
+4,57,shelf_1,Reach To Shelf
+4,58,shelf_1,Reach To Shelf
+4,59,shelf_1,Reach To Shelf
+4,60,shelf_1,Reach To Shelf
+4,61,shelf_1,Reach To Shelf
+4,63,shelf_1,Reach To Shelf
+4,64,shelf_1,Inspect Shelf
+4,65,shelf_1,Inspect Shelf
+4,66,shelf_1,Inspect Shelf
+4,67,shelf_1,Inspect Shelf
+4,68,shelf_1,Inspect Shelf
+4,69,shelf_1,Inspect Shelf
+4,70,shelf_1,Inspect Shelf
+4,71,shelf_1,Inspect Shelf
+4,72,shelf_8,Inspect Shelf
+4,73,shelf_8,Inspect Shelf
+4,74,shelf_1,Inspect Shelf
+4,75,shelf_8,Inspect Shelf
+4,76,shelf_8,Inspect Shelf
+4,77,shelf_8,Inspect Shelf
+4,78,shelf_8,Inspect Shelf
+4,79,shelf_8,Inspect Shelf
+4,80,shelf_8,Retract From Shelf
+4,81,shelf_1,Retract From Shelf
+4,82,shelf_1,Retract From Shelf
+4,83,shelf_8,Retract From Shelf
+5,9,shelf_1,Reach To Shelf
+5,10,shelf_1,Reach To Shelf
+5,14,shelf_1,Reach To Shelf
+5,15,shelf_1,Reach To Shelf
+5,16,shelf_1,Reach To Shelf
+5,18,shelf_1,Reach To Shelf
+5,20,shelf_1,Reach To Shelf
+5,21,shelf_1,Reach To Shelf
+5,22,shelf_1,Reach To Shelf
+5,23,shelf_1,Reach To Shelf
+5,24,shelf_1,Reach To Shelf
+5,28,shelf_1,Reach To Shelf
+5,29,shelf_1,Reach To Shelf
+5,32,shelf_1,Reach To Shelf
+5,33,shelf_1,Reach To Shelf
+5,34,shelf_1,Reach To Shelf
+5,35,shelf_1,Reach To Shelf
+5,36,shelf_1,Reach To Shelf
+5,37,shelf_1,Reach To Shelf
+5,38,shelf_1,Reach To Shelf
+5,39,shelf_1,Reach To Shelf
+5,40,shelf_1,Reach To Shelf
+5,41,shelf_1,Reach To Shelf
+5,42,shelf_8,Reach To Shelf
+5,43,shelf_8,Reach To Shelf
+5,44,shelf_8,Reach To Shelf
+5,45,shelf_8,Reach To Shelf
+5,46,shelf_8,Reach To Shelf
+5,47,shelf_8,Reach To Shelf
+5,48,shelf_1,Reach To Shelf
+6,66,shelf_2,Inspect Shelf
+6,67,shelf_2,Hand In Shelf
+6,68,shelf_2,Hand In Shelf
+6,69,shelf_2,Hand In Shelf
+6,70,shelf_2,Hand In Shelf
+6,71,shelf_2,Hand In Shelf
+6,72,shelf_2,Hand In Shelf
+6,73,shelf_2,Hand In Shelf
+6,74,shelf_2,Hand In Shelf
+6,75,shelf_2,Hand In Shelf
+6,76,shelf_2,Hand In Shelf
+6,77,shelf_2,Hand In Shelf
+6,78,shelf_2,Hand In Shelf
+6,79,shelf_2,Hand In Shelf
+6,80,shelf_2,Hand In Shelf
+6,81,shelf_2,Hand In Shelf
+6,83,shelf_2,Hand In Shelf
+6,84,shelf_2,Hand In Shelf
+6,85,shelf_9,Hand In Shelf
+6,90,shelf_9,Hand In Shelf
+6,91,shelf_9,Retract From Shelf
+6,92,shelf_9,Retract From Shelf
+6,93,shelf_9,Retract From Shelf
+6,94,shelf_9,Retract From Shelf
+6,95,shelf_9,Retract From Shelf
+6,96,shelf_9,Retract From Shelf
+6,98,shelf_9,Retract From Shelf
+6,107,shelf_6,Retract From Shelf
+6,108,shelf_6,Retract From Shelf
+6,138,shelf_6,Hand In Shelf
+6,139,shelf_6,Hand In Shelf
+6,140,shelf_6,Hand In Shelf
+6,141,shelf_6,Hand In Shelf
+6,142,shelf_6,Hand In Shelf
+6,143,shelf_6,Hand In Shelf
+7,16,shelf_6,Inspect Product
+7,17,shelf_6,Inspect Product
+8,0,shelf_3,Inspect Product
+8,1,shelf_3,Inspect Product
+8,2,shelf_3,Inspect Product
+8,3,shelf_3,Inspect Product
+8,4,shelf_3,Inspect Product
+9,65,shelf_6,Retract From Shelf
+9,66,shelf_6,Retract From Shelf
+9,67,shelf_6,Retract From Shelf
+9,68,shelf_6,Retract From Shelf
+9,69,shelf_6,Retract From Shelf
+9,70,shelf_6,Retract From Shelf
+9,71,shelf_6,Retract From Shelf
+9,72,shelf_6,Inspect Product
+9,73,shelf_6,Inspect Product
+9,74,shelf_6,Inspect Product
+9,75,shelf_6,Inspect Product
+9,76,shelf_6,Inspect Product
+9,155,shelf_6,Inspect Product
+9,156,shelf_6,Inspect Product
+9,157,shelf_6,Inspect Product
+9,158,shelf_6,Inspect Product
+9,159,shelf_6,Inspect Product
+9,160,shelf_6,Inspect Product
+9,161,shelf_6,Inspect Product
+9,162,shelf_6,Inspect Product
+9,163,shelf_6,Inspect Product
+9,164,shelf_6,Inspect Product
+9,165,shelf_6,Inspect Product
+9,166,shelf_6,Inspect Product
+9,167,shelf_6,Inspect Product
+9,168,shelf_6,Inspect Product
+9,169,shelf_6,Inspect Product
+9,170,shelf_6,Inspect Product
+9,171,shelf_6,Inspect Product
+9,172,shelf_6,Inspect Product
+9,173,shelf_6,Inspect Product
+9,174,shelf_6,Inspect Product
+9,175,shelf_6,Inspect Product
+9,176,shelf_6,Inspect Product
+9,177,shelf_6,Inspect Product
+9,178,shelf_6,Inspect Product
+9,179,shelf_6,Inspect Product
+9,180,shelf_6,Inspect Product
+9,181,shelf_6,Inspect Product
+9,182,shelf_6,Inspect Product
+9,183,shelf_6,Inspect Product
+9,198,shelf_6,Inspect Product
+9,199,shelf_6,Inspect Product
+9,200,shelf_6,Inspect Product
+9,201,shelf_6,Inspect Product
+9,202,shelf_6,Inspect Product
+9,204,shelf_6,Hand In Shelf
+9,205,shelf_6,Hand In Shelf
+9,206,shelf_6,Hand In Shelf
+9,208,shelf_6,Hand In Shelf
+9,209,shelf_6,Hand In Shelf
+9,210,shelf_6,Hand In Shelf
+9,211,shelf_6,Retract From Shelf
+9,212,shelf_6,Retract From Shelf
+9,213,shelf_6,Retract From Shelf
+9,214,shelf_6,Retract From Shelf
+9,215,shelf_6,Retract From Shelf
+9,247,shelf_6,Retract From Shelf
+9,248,shelf_6,Retract From Shelf
+9,249,shelf_6,Retract From Shelf
+10,49,shelf_5,Hand In Shelf
+10,124,shelf_5,Inspect Product
+10,125,shelf_5,Inspect Product
+10,126,shelf_5,Inspect Product
+10,127,shelf_5,Inspect Product
+10,128,shelf_5,Inspect Product
+10,129,shelf_5,Inspect Product
+10,130,shelf_5,Inspect Product
+10,131,shelf_5,Inspect Product
+10,132,shelf_5,Inspect Product
+10,133,shelf_5,Inspect Product
+10,138,shelf_6,Inspect Product
+10,144,shelf_6,Hand In Shelf
+10,159,shelf_6,Hand In Shelf
+10,162,shelf_6,Hand In Shelf
+10,163,shelf_6,Hand In Shelf
+10,164,shelf_6,Inspect Product
+10,165,shelf_6,Inspect Product
+10,166,shelf_6,Inspect Product
+10,175,shelf_6,Inspect Product
+10,231,shelf_6,Hand In Shelf
+10,237,shelf_6,Hand In Shelf
+10,240,shelf_6,Hand In Shelf
+10,241,shelf_6,Hand In Shelf
+11,0,shelf_3,Retract From Shelf
+11,1,shelf_3,Retract From Shelf
+11,2,shelf_3,Retract From Shelf
+11,3,shelf_3,Retract From Shelf
+11,4,shelf_3,Retract From Shelf
+11,5,shelf_3,Retract From Shelf
+11,6,shelf_3,Retract From Shelf
+11,7,shelf_3,Retract From Shelf
+11,8,shelf_4,Retract From Shelf
+11,9,shelf_4,Retract From Shelf
+11,10,shelf_4,Retract From Shelf
+11,11,shelf_4,Retract From Shelf
+11,12,shelf_4,Retract From Shelf
+11,13,shelf_4,Retract From Shelf
+11,14,shelf_4,Retract From Shelf
+11,15,shelf_4,Retract From Shelf
+11,16,shelf_4,Background
+11,17,shelf_4,Background
+11,18,shelf_4,Background
+11,19,shelf_4,Background
+11,20,shelf_4,Background
+11,21,shelf_4,Background
+11,22,shelf_4,Background
+11,23,shelf_4,Background
+11,24,shelf_3,Inspect Product
+11,25,shelf_4,Inspect Product
+11,26,shelf_4,Inspect Product
+11,27,shelf_4,Inspect Product
+11,28,shelf_4,Inspect Product
+11,29,shelf_4,Inspect Product
+11,30,shelf_4,Inspect Product
+11,31,shelf_4,Inspect Product
+11,32,shelf_4,Reach To Shelf
+11,36,shelf_4,Reach To Shelf
+11,37,shelf_4,Reach To Shelf
+11,38,shelf_4,Reach To Shelf
+11,39,shelf_4,Reach To Shelf
+11,40,shelf_4,Reach To Shelf
+11,41,shelf_4,Reach To Shelf
+11,42,shelf_4,Reach To Shelf
+11,43,shelf_4,Retract From Shelf
+11,44,shelf_4,Retract From Shelf
+11,45,shelf_4,Retract From Shelf
+11,46,shelf_4,Retract From Shelf
+11,47,shelf_4,Retract From Shelf
+11,48,shelf_4,Retract From Shelf
+11,49,shelf_4,Retract From Shelf
+11,50,shelf_4,Retract From Shelf
+11,51,shelf_4,Retract From Shelf
+11,52,shelf_4,Retract From Shelf
+11,53,shelf_4,Retract From Shelf
+11,54,shelf_4,Retract From Shelf
+11,55,shelf_4,Retract From Shelf
+11,56,shelf_4,Retract From Shelf
+11,57,shelf_4,Retract From Shelf
+11,58,shelf_4,Retract From Shelf
+11,59,shelf_4,Retract From Shelf
+11,60,shelf_4,Retract From Shelf
+11,61,shelf_4,Retract From Shelf
+11,62,shelf_4,Retract From Shelf
+11,63,shelf_4,Retract From Shelf
+11,64,shelf_4,Retract From Shelf
+11,65,shelf_4,Retract From Shelf
+11,66,shelf_4,Retract From Shelf
+11,67,shelf_4,Retract From Shelf
+11,68,shelf_4,Retract From Shelf
+11,69,shelf_4,Retract From Shelf
+11,70,shelf_4,Retract From Shelf
+11,71,shelf_4,Retract From Shelf
+11,72,shelf_4,Retract From Shelf
+11,73,shelf_4,Retract From Shelf
+11,74,shelf_4,Retract From Shelf
+11,75,shelf_4,Retract From Shelf
+11,76,shelf_4,Retract From Shelf
+11,77,shelf_4,Retract From Shelf
+11,78,shelf_4,Retract From Shelf
+11,79,shelf_4,Retract From Shelf
+11,80,shelf_4,Retract From Shelf
+11,81,shelf_4,Retract From Shelf
+11,82,shelf_4,Retract From Shelf
+11,83,shelf_4,Retract From Shelf
+11,84,shelf_4,Retract From Shelf
+11,85,shelf_4,Retract From Shelf
+11,86,shelf_4,Retract From Shelf
+11,87,shelf_4,Retract From Shelf
+11,88,shelf_4,Retract From Shelf
+11,89,shelf_4,Retract From Shelf
+11,90,shelf_4,Retract From Shelf
+11,91,shelf_4,Reach To Shelf
+11,92,shelf_4,Reach To Shelf
+11,93,shelf_4,Reach To Shelf
+11,94,shelf_4,Reach To Shelf
+11,95,shelf_4,Reach To Shelf
+11,96,shelf_4,Reach To Shelf
+11,97,shelf_4,Reach To Shelf
+11,98,shelf_4,Reach To Shelf
+11,99,shelf_4,Inspect Product
+11,100,shelf_4,Inspect Product
+11,101,shelf_4,Inspect Product
+11,102,shelf_4,Inspect Product
+11,103,shelf_4,Inspect Product
+11,104,shelf_4,Inspect Product
+11,105,shelf_4,Inspect Product
+11,106,shelf_4,Inspect Product
+12,0,shelf_3,Inspect Product
+12,1,shelf_3,Inspect Product
+12,2,shelf_3,Inspect Product
+12,3,shelf_3,Inspect Product
+12,4,shelf_3,Inspect Product
+12,5,shelf_3,Inspect Product
+12,6,shelf_3,Inspect Product
+12,7,shelf_3,Inspect Product
+12,8,shelf_4,Inspect Product
+12,9,shelf_4,Inspect Product
+12,10,shelf_4,Inspect Product
+12,11,shelf_4,Inspect Product
+12,12,shelf_4,Inspect Product
+12,13,shelf_4,Inspect Product
+12,14,shelf_4,Inspect Product
+12,15,shelf_4,Inspect Product
+12,16,shelf_4,Inspect Product
+12,17,shelf_4,Inspect Product
+12,18,shelf_4,Inspect Product
+12,19,shelf_4,Inspect Product
+12,20,shelf_4,Inspect Product
+12,21,shelf_4,Inspect Product
+12,22,shelf_4,Inspect Product
+12,23,shelf_4,Inspect Product
+12,88,shelf_6,Inspect Product
+12,89,shelf_6,Inspect Product
+12,90,shelf_6,Inspect Product
+12,91,shelf_6,Hand In Shelf
+12,92,shelf_6,Hand In Shelf
+12,93,shelf_6,Hand In Shelf
+12,94,shelf_6,Hand In Shelf
+12,95,shelf_6,Hand In Shelf
+12,96,shelf_6,Hand In Shelf
+12,97,shelf_6,Hand In Shelf
+12,98,shelf_6,Hand In Shelf
+12,99,shelf_6,Inspect Product
+12,100,shelf_6,Inspect Product
+12,101,shelf_6,Inspect Product
+12,102,shelf_6,Inspect Product
+12,103,shelf_6,Inspect Product
+12,104,shelf_6,Inspect Product
+12,105,shelf_6,Inspect Product
+12,106,shelf_6,Inspect Product
+12,107,shelf_6,Inspect Product
+12,108,shelf_6,Inspect Product
+12,109,shelf_6,Inspect Product
+12,110,shelf_6,Inspect Product
+12,113,shelf_6,Inspect Product
+12,114,shelf_6,Inspect Product
+12,115,shelf_6,Inspect Shelf
+12,117,shelf_6,Inspect Shelf
+12,118,shelf_6,Inspect Shelf
+12,119,shelf_6,Inspect Shelf
+12,120,shelf_6,Inspect Shelf
+12,138,shelf_6,Hand In Shelf
+12,139,shelf_6,Hand In Shelf
+12,149,shelf_6,Hand In Shelf
+12,150,shelf_6,Hand In Shelf
+12,151,shelf_6,Hand In Shelf
+12,152,shelf_6,Hand In Shelf
+12,153,shelf_6,Hand In Shelf
+12,154,shelf_6,Hand In Shelf
+12,155,shelf_6,Hand In Shelf
+12,156,shelf_6,Inspect Product
+12,157,shelf_6,Inspect Product
+12,158,shelf_6,Inspect Product
+12,159,shelf_6,Inspect Product
+12,160,shelf_6,Inspect Product
+12,161,shelf_6,Inspect Product
+12,162,shelf_6,Inspect Product
+12,163,shelf_6,Inspect Product
+12,164,shelf_6,Inspect Product
+12,165,shelf_6,Inspect Product
+12,166,shelf_6,Inspect Product
+12,167,shelf_6,Inspect Product
+12,168,shelf_6,Inspect Product
+12,169,shelf_6,Inspect Product
+12,170,shelf_6,Inspect Product
+12,171,shelf_6,Inspect Product
+12,172,shelf_6,Hand In Shelf
+12,173,shelf_6,Hand In Shelf
+12,174,shelf_6,Hand In Shelf
+12,175,shelf_6,Hand In Shelf
+12,176,shelf_6,Hand In Shelf
+12,177,shelf_6,Hand In Shelf
+12,178,shelf_6,Hand In Shelf
+12,179,shelf_6,Hand In Shelf
+12,180,shelf_6,Reach To Shelf
+12,181,shelf_6,Reach To Shelf
+12,182,shelf_6,Reach To Shelf
+12,183,shelf_6,Reach To Shelf
+12,187,shelf_6,Reach To Shelf
+12,188,shelf_6,Reach To Shelf
+12,189,shelf_6,Reach To Shelf
+12,190,shelf_6,Reach To Shelf
+12,191,shelf_6,Reach To Shelf
+12,192,shelf_6,Reach To Shelf
+12,193,shelf_6,Reach To Shelf
+12,194,shelf_6,Reach To Shelf
+12,195,shelf_6,Reach To Shelf
+12,196,shelf_6,Reach To Shelf
+12,197,shelf_6,Reach To Shelf
+12,198,shelf_6,Reach To Shelf
+12,199,shelf_6,Reach To Shelf
+12,200,shelf_6,Reach To Shelf
+12,201,shelf_6,Reach To Shelf
+12,202,shelf_6,Reach To Shelf
+12,203,shelf_6,Reach To Shelf
+13,16,shelf_6,Retract From Shelf
+13,17,shelf_6,Retract From Shelf
+13,34,shelf_6,Inspect Product
+13,36,shelf_6,Inspect Product
+13,37,shelf_6,Inspect Product
+13,46,shelf_6,Inspect Product
+13,47,shelf_6,Inspect Product
+13,48,shelf_6,Inspect Shelf
+13,49,shelf_6,Inspect Shelf
+13,50,shelf_6,Inspect Shelf
+13,51,shelf_6,Inspect Shelf
+13,52,shelf_6,Inspect Shelf
+22,40,shelf_1,Reach To Shelf
+22,41,shelf_1,Reach To Shelf
+22,42,shelf_1,Reach To Shelf
+22,43,shelf_1,Reach To Shelf
+22,44,shelf_1,Inspect Product
+22,48,shelf_1,Inspect Product
+22,49,shelf_1,Inspect Product
+22,50,shelf_1,Inspect Product
+22,52,shelf_1,Inspect Product
+22,57,shelf_1,Inspect Product
+22,58,shelf_1,Inspect Product
+22,59,shelf_1,Inspect Product
+22,60,shelf_1,Reach To Shelf
+22,61,shelf_1,Reach To Shelf
+22,62,shelf_1,Reach To Shelf
+22,63,shelf_1,Reach To Shelf
+22,64,shelf_1,Reach To Shelf
+22,65,shelf_1,Reach To Shelf
+22,66,shelf_1,Reach To Shelf
+22,67,shelf_1,Reach To Shelf
+22,68,shelf_1,Reach To Shelf
+22,69,shelf_1,Reach To Shelf
+22,70,shelf_1,Reach To Shelf
+22,71,shelf_1,Reach To Shelf
+22,72,shelf_8,Reach To Shelf
+22,73,shelf_1,Reach To Shelf
+22,74,shelf_1,Reach To Shelf
+22,75,shelf_1,Reach To Shelf
+22,76,shelf_1,Reach To Shelf
+22,77,shelf_1,Reach To Shelf
+22,78,shelf_1,Reach To Shelf
+22,79,shelf_1,Reach To Shelf
+22,80,shelf_8,Reach To Shelf
+22,152,shelf_1,Hand In Shelf
+22,162,shelf_1,Hand In Shelf
+22,163,shelf_1,Hand In Shelf
+22,164,shelf_1,Hand In Shelf
+22,165,shelf_1,Hand In Shelf
+22,229,shelf_1,Reach To Shelf
+22,233,shelf_1,Reach To Shelf
+22,234,shelf_1,Reach To Shelf
+22,235,shelf_1,Reach To Shelf
+22,236,shelf_1,Reach To Shelf
+22,237,shelf_1,Reach To Shelf
+22,238,shelf_1,Reach To Shelf
+22,239,shelf_1,Reach To Shelf
+22,240,shelf_1,Reach To Shelf
+22,241,shelf_1,Reach To Shelf
+22,242,shelf_1,Reach To Shelf
+22,243,shelf_1,Reach To Shelf
+22,244,shelf_1,Reach To Shelf
+22,245,shelf_1,Reach To Shelf
+22,246,shelf_1,Reach To Shelf
+22,247,shelf_1,Reach To Shelf
+22,248,shelf_1,Reach To Shelf
+22,249,shelf_1,Reach To Shelf
+22,250,shelf_1,Reach To Shelf
+22,251,shelf_1,Reach To Shelf
+22,252,shelf_1,Hand In Shelf
+22,253,shelf_1,Hand In Shelf
+22,254,shelf_1,Hand In Shelf
+22,255,shelf_1,Hand In Shelf
+22,256,shelf_1,Hand In Shelf
+22,257,shelf_1,Hand In Shelf
+22,258,shelf_1,Hand In Shelf
+22,259,shelf_1,Hand In Shelf
+58,34,shelf_6,Inspect Shelf
+58,36,shelf_6,Inspect Shelf
+58,37,shelf_6,Inspect Shelf
+58,46,shelf_6,Inspect Shelf
+58,47,shelf_6,Inspect Shelf
+58,48,shelf_6,Inspect Shelf
+58,49,shelf_6,Inspect Shelf
+81,61,shelf_1,Hand In Shelf
+81,63,shelf_1,Hand In Shelf
+81,64,shelf_1,Hand In Shelf
+81,65,shelf_1,Hand In Shelf
+81,66,shelf_1,Hand In Shelf
+81,67,shelf_1,Hand In Shelf
+81,68,shelf_1,Hand In Shelf
+81,69,shelf_1,Hand In Shelf
+81,70,shelf_1,Hand In Shelf
+81,71,shelf_1,Hand In Shelf
+81,72,shelf_8,Hand In Shelf
+81,73,shelf_1,Hand In Shelf
+81,74,shelf_1,Reach To Shelf
+81,75,shelf_1,Reach To Shelf
+81,76,shelf_1,Reach To Shelf
+81,77,shelf_1,Reach To Shelf
+81,78,shelf_1,Reach To Shelf
+81,79,shelf_1,Reach To Shelf
+81,80,shelf_1,Reach To Shelf
+81,109,shelf_8,Reach To Shelf
+81,110,shelf_8,Reach To Shelf
+81,111,shelf_8,Reach To Shelf
+81,112,shelf_8,Reach To Shelf
+81,113,shelf_8,Reach To Shelf
+81,114,shelf_8,Reach To Shelf
+81,115,shelf_1,Reach To Shelf
+81,116,shelf_1,Reach To Shelf
+81,117,shelf_8,Reach To Shelf
+81,118,shelf_8,Reach To Shelf
+81,119,shelf_8,Reach To Shelf
+81,120,shelf_8,Reach To Shelf
+81,121,shelf_8,Reach To Shelf
+81,122,shelf_8,Reach To Shelf
+81,123,shelf_8,Reach To Shelf
+81,124,shelf_8,Reach To Shelf
+81,125,shelf_8,Reach To Shelf
+81,126,shelf_8,Reach To Shelf
+81,127,shelf_8,Reach To Shelf
+81,128,shelf_8,Reach To Shelf
+81,129,shelf_8,Reach To Shelf
+81,130,shelf_8,Hand In Shelf
+81,131,shelf_8,Hand In Shelf
+81,132,shelf_8,Hand In Shelf
+81,133,shelf_8,Hand In Shelf
+81,134,shelf_8,Hand In Shelf
+81,135,shelf_8,Hand In Shelf
+81,136,shelf_8,Hand In Shelf
+81,137,shelf_1,Hand In Shelf
+81,138,shelf_8,Hand In Shelf
+81,139,shelf_8,Hand In Shelf
+81,140,shelf_8,Hand In Shelf
+81,141,shelf_8,Hand In Shelf
+81,142,shelf_8,Hand In Shelf
+81,150,shelf_1,Hand In Shelf
+81,151,shelf_1,Hand In Shelf
+81,152,shelf_8,Hand In Shelf
+81,154,shelf_8,Hand In Shelf
+81,162,shelf_1,Hand In Shelf
+81,163,shelf_1,Hand In Shelf
+81,164,shelf_1,Hand In Shelf
+81,165,shelf_1,Hand In Shelf
+81,166,shelf_1,Hand In Shelf
+81,167,shelf_1,Hand In Shelf
+81,168,shelf_1,Hand In Shelf
+81,169,shelf_1,Hand In Shelf
+81,170,shelf_1,Hand In Shelf
+81,171,shelf_1,Hand In Shelf
+81,172,shelf_1,Hand In Shelf
+81,173,shelf_1,Hand In Shelf
+81,174,shelf_1,Hand In Shelf
+81,175,shelf_1,Hand In Shelf
+81,176,shelf_1,Hand In Shelf
+81,177,shelf_1,Hand In Shelf
+81,178,shelf_1,Hand In Shelf
+81,179,shelf_1,Hand In Shelf
+81,180,shelf_1,Hand In Shelf
+81,181,shelf_1,Hand In Shelf
+81,182,shelf_1,Hand In Shelf
+81,183,shelf_1,Hand In Shelf
+81,184,shelf_1,Hand In Shelf
+81,185,shelf_1,Hand In Shelf
+81,186,shelf_1,Hand In Shelf
+81,187,shelf_1,Hand In Shelf
+81,188,shelf_1,Hand In Shelf
+81,189,shelf_1,Hand In Shelf
+81,190,shelf_1,Hand In Shelf
+81,191,shelf_1,Hand In Shelf
+81,192,shelf_1,Hand In Shelf
+81,193,shelf_1,Hand In Shelf
+81,194,shelf_1,Hand In Shelf
+81,195,shelf_1,Hand In Shelf
+81,197,shelf_1,Hand In Shelf
+81,198,shelf_1,Hand In Shelf
+81,199,shelf_1,Hand In Shelf
+81,200,shelf_1,Hand In Shelf
+81,201,shelf_1,Hand In Shelf
+84,63,shelf_1,Inspect Shelf
+84,64,shelf_1,Inspect Shelf
+84,65,shelf_1,Inspect Shelf
+84,66,shelf_1,Inspect Shelf
+84,67,shelf_1,Inspect Shelf
+84,68,shelf_1,Inspect Shelf
+84,74,shelf_1,Inspect Shelf
+84,75,shelf_8,Inspect Shelf
+84,76,shelf_8,Inspect Shelf
+84,77,shelf_8,Inspect Shelf
+84,78,shelf_8,Inspect Shelf
+84,79,shelf_8,Inspect Shelf
+84,80,shelf_8,Inspect Shelf
+84,81,shelf_8,Inspect Shelf
+84,82,shelf_8,Inspect Shelf
+107,92,shelf_9,Inspect Product
+124,83,shelf_8,Reach To Shelf
+124,105,shelf_9,Reach To Shelf
+124,106,shelf_8,Reach To Shelf
+131,93,shelf_9,Inspect Product
+131,94,shelf_9,Inspect Product
+131,95,shelf_9,Inspect Product
+131,98,shelf_9,Inspect Product
+131,144,shelf_9,Hand In Shelf
+131,210,shelf_9,Hand In Shelf
+131,211,shelf_9,Hand In Shelf
+131,212,shelf_9,Hand In Shelf
+131,213,shelf_9,Hand In Shelf
+131,214,shelf_9,Hand In Shelf
+147,106,shelf_4,Inspect Product
+147,107,shelf_4,Inspect Product
+147,108,shelf_4,Inspect Product
+147,109,shelf_4,Inspect Product
+147,110,shelf_4,Inspect Product
+147,122,shelf_4,Inspect Product
+147,123,shelf_4,Inspect Product
+147,124,shelf_4,Inspect Product
+147,125,shelf_4,Inspect Product
+147,126,shelf_4,Inspect Product
+147,127,shelf_4,Inspect Product
+147,128,shelf_4,Inspect Product
+147,129,shelf_4,Inspect Product
+147,130,shelf_4,Inspect Product
+147,131,shelf_4,Inspect Product
+147,132,shelf_4,Inspect Product
+147,133,shelf_4,Hand In Shelf
+147,134,shelf_4,Hand In Shelf
+147,135,shelf_4,Hand In Shelf
+147,136,shelf_4,Hand In Shelf
+147,137,shelf_4,Hand In Shelf
+147,138,shelf_4,Hand In Shelf
+147,139,shelf_4,Hand In Shelf
+147,140,shelf_4,Hand In Shelf
+147,141,shelf_4,Hand In Shelf
+147,142,shelf_4,Hand In Shelf
+147,143,shelf_4,Hand In Shelf
+147,144,shelf_4,Hand In Shelf
+147,145,shelf_4,Hand In Shelf
+147,146,shelf_4,Hand In Shelf
+147,147,shelf_4,Hand In Shelf
+147,148,shelf_4,Hand In Shelf
+147,149,shelf_4,Inspect Product
+147,150,shelf_4,Inspect Product
+147,151,shelf_4,Inspect Product
+147,152,shelf_4,Inspect Product
+147,153,shelf_4,Inspect Product
+147,154,shelf_4,Inspect Product
+147,155,shelf_4,Inspect Product
+147,156,shelf_4,Inspect Product
+147,157,shelf_4,Inspect Product
+147,158,shelf_4,Inspect Product
+147,159,shelf_4,Inspect Product
+147,160,shelf_4,Inspect Product
+147,161,shelf_4,Inspect Product
+147,162,shelf_4,Inspect Product
+147,163,shelf_4,Inspect Product
+147,164,shelf_4,Inspect Product
+147,165,shelf_4,Hand In Shelf
+147,166,shelf_4,Hand In Shelf
+147,167,shelf_4,Hand In Shelf
+147,168,shelf_4,Hand In Shelf
+147,169,shelf_4,Hand In Shelf
+147,170,shelf_4,Hand In Shelf
+147,171,shelf_4,Hand In Shelf
+147,172,shelf_4,Hand In Shelf
+147,173,shelf_4,Hand In Shelf
+147,174,shelf_4,Hand In Shelf
+147,175,shelf_4,Hand In Shelf
+147,176,shelf_4,Hand In Shelf
+147,177,shelf_4,Hand In Shelf
+147,178,shelf_4,Hand In Shelf
+147,179,shelf_4,Hand In Shelf
+147,180,shelf_4,Hand In Shelf
+147,181,shelf_4,Inspect Product
+147,182,shelf_4,Inspect Product
+147,183,shelf_4,Inspect Product
+147,184,shelf_4,Inspect Product
+147,185,shelf_4,Inspect Product
+147,186,shelf_4,Inspect Product
+147,187,shelf_4,Inspect Product
+147,188,shelf_4,Inspect Product
+147,189,shelf_4,Inspect Product
+147,190,shelf_4,Inspect Product
+147,191,shelf_4,Inspect Product
+147,192,shelf_4,Inspect Product
+147,193,shelf_4,Inspect Product
+147,194,shelf_4,Inspect Product
+147,195,shelf_4,Inspect Product
+147,196,shelf_4,Inspect Product
+147,197,shelf_4,Inspect Product
+147,198,shelf_4,Inspect Product
+147,199,shelf_4,Inspect Product
+147,200,shelf_4,Inspect Product
+147,201,shelf_4,Inspect Product
+147,202,shelf_4,Inspect Product
+147,203,shelf_4,Inspect Product
+147,204,shelf_4,Inspect Product
+147,205,shelf_4,Retract From Shelf
+147,206,shelf_4,Retract From Shelf
+147,207,shelf_4,Retract From Shelf
+147,208,shelf_4,Retract From Shelf
+147,209,shelf_4,Retract From Shelf
+147,210,shelf_4,Retract From Shelf
+147,211,shelf_4,Retract From Shelf
+147,212,shelf_4,Retract From Shelf
+147,213,shelf_4,Retract From Shelf
+147,214,shelf_4,Retract From Shelf
+147,215,shelf_4,Retract From Shelf
+147,216,shelf_4,Retract From Shelf
+147,217,shelf_4,Retract From Shelf
+147,218,shelf_4,Retract From Shelf
+147,219,shelf_4,Retract From Shelf
+147,220,shelf_4,Retract From Shelf
+147,221,shelf_4,Reach To Shelf
+147,222,shelf_4,Reach To Shelf
+147,223,shelf_4,Reach To Shelf
+147,224,shelf_4,Reach To Shelf
+147,225,shelf_4,Reach To Shelf
+147,226,shelf_4,Reach To Shelf
+147,227,shelf_4,Reach To Shelf
+147,228,shelf_4,Reach To Shelf
+147,229,shelf_4,Reach To Shelf
+147,230,shelf_4,Reach To Shelf
+147,231,shelf_4,Reach To Shelf
+147,232,shelf_4,Reach To Shelf
+147,233,shelf_4,Reach To Shelf
+147,234,shelf_4,Reach To Shelf
+147,235,shelf_4,Reach To Shelf
+147,236,shelf_4,Reach To Shelf
+147,237,shelf_4,Inspect Product
+147,238,shelf_4,Inspect Product
+147,239,shelf_4,Inspect Product
+147,240,shelf_4,Inspect Product
+147,241,shelf_4,Inspect Product
+147,242,shelf_4,Inspect Product
+147,243,shelf_4,Inspect Product
+147,244,shelf_4,Inspect Product
+147,245,shelf_4,Inspect Product
+147,246,shelf_4,Inspect Product
+147,247,shelf_4,Inspect Product
+147,248,shelf_4,Inspect Product
+147,249,shelf_4,Inspect Product
+147,250,shelf_4,Inspect Product
+147,251,shelf_4,Inspect Product
+147,252,shelf_4,Inspect Product
+147,253,shelf_4,Inspect Product
+147,254,shelf_4,Inspect Product
+147,255,shelf_4,Inspect Product
+147,256,shelf_4,Inspect Product
+147,257,shelf_4,Inspect Product
+147,258,shelf_4,Inspect Product
+147,259,shelf_4,Inspect Product
+147,260,shelf_4,Inspect Product
+188,144,shelf_6,Retract From Shelf
+200,144,shelf_9,Hand In Shelf
+200,145,shelf_9,Hand In Shelf
+200,150,shelf_9,Hand In Shelf
+200,151,shelf_9,Hand In Shelf
+200,152,shelf_9,Hand In Shelf
+200,206,shelf_1,Hand In Shelf
+200,207,shelf_1,Hand In Shelf
+200,208,shelf_1,Hand In Shelf
+200,209,shelf_1,Hand In Shelf
+200,210,shelf_9,Hand In Shelf
+200,211,shelf_9,Hand In Shelf
+200,212,shelf_9,Hand In Shelf
+200,213,shelf_9,Hand In Shelf
+200,214,shelf_9,Hand In Shelf
+200,216,shelf_1,Hand In Shelf
+200,219,shelf_1,Hand In Shelf
+200,220,shelf_1,Hand In Shelf
+200,221,shelf_1,Hand In Shelf
+200,222,shelf_1,Hand In Shelf
+200,223,shelf_1,Hand In Shelf
+200,224,shelf_1,Hand In Shelf
+200,225,shelf_1,Hand In Shelf
+200,226,shelf_1,Hand In Shelf
+200,227,shelf_1,Hand In Shelf
+200,228,shelf_1,Hand In Shelf
+200,229,shelf_1,Inspect Product
+200,230,shelf_1,Inspect Product
+200,231,shelf_1,Inspect Product
+200,232,shelf_1,Inspect Product
+200,233,shelf_1,Inspect Product
+200,234,shelf_1,Inspect Product
+200,235,shelf_1,Inspect Product
+200,236,shelf_1,Inspect Product
+200,237,shelf_1,Inspect Product
+200,238,shelf_1,Inspect Product
+200,239,shelf_1,Inspect Product
+200,240,shelf_1,Inspect Product
+200,241,shelf_1,Inspect Product
+200,242,shelf_1,Inspect Product
+200,243,shelf_1,Inspect Product
+200,244,shelf_1,Inspect Product
+200,245,shelf_1,Hand In Shelf
+200,246,shelf_1,Hand In Shelf
+200,247,shelf_1,Hand In Shelf
+200,248,shelf_1,Hand In Shelf
+200,249,shelf_1,Hand In Shelf
+200,250,shelf_1,Hand In Shelf
+200,251,shelf_1,Hand In Shelf
+200,252,shelf_1,Hand In Shelf
+204,145,shelf_6,Hand In Shelf
+204,146,shelf_6,Hand In Shelf
+204,147,shelf_6,Hand In Shelf
+204,148,shelf_6,Hand In Shelf
+204,149,shelf_6,Hand In Shelf
+204,150,shelf_6,Hand In Shelf
+204,151,shelf_6,Hand In Shelf
+204,152,shelf_6,Hand In Shelf
+204,153,shelf_6,Hand In Shelf
+204,154,shelf_6,Hand In Shelf
+204,155,shelf_6,Hand In Shelf
+204,156,shelf_6,Hand In Shelf
+204,157,shelf_6,Hand In Shelf
+204,158,shelf_6,Hand In Shelf
+204,159,shelf_6,Hand In Shelf
+204,160,shelf_6,Hand In Shelf
+221,189,shelf_1,Hand In Shelf
+221,190,shelf_1,Hand In Shelf
+221,191,shelf_1,Hand In Shelf
+221,192,shelf_1,Hand In Shelf
+221,193,shelf_1,Hand In Shelf
+221,194,shelf_1,Hand In Shelf
+221,195,shelf_1,Hand In Shelf
+221,197,shelf_1,Hand In Shelf
+221,198,shelf_1,Hand In Shelf
+221,199,shelf_1,Hand In Shelf
+221,200,shelf_1,Hand In Shelf
+221,201,shelf_1,Hand In Shelf
+221,202,shelf_1,Hand In Shelf
+221,203,shelf_1,Hand In Shelf
+221,204,shelf_1,Retract From Shelf
+221,205,shelf_1,Retract From Shelf
+221,206,shelf_1,Retract From Shelf
+221,207,shelf_1,Retract From Shelf
+221,208,shelf_1,Retract From Shelf
+221,209,shelf_1,Retract From Shelf
+221,210,shelf_9,Retract From Shelf
+221,211,shelf_9,Retract From Shelf
+221,212,shelf_9,Retract From Shelf
+221,216,shelf_1,Retract From Shelf
+221,219,shelf_1,Retract From Shelf
+222,249,shelf_2,Hand In Shelf
+222,250,shelf_2,Hand In Shelf
+222,251,shelf_2,Hand In Shelf
+222,252,shelf_2,Hand In Shelf
+222,253,shelf_2,Hand In Shelf
+222,254,shelf_2,Hand In Shelf
+223,197,shelf_1,Hand In Shelf
+223,205,shelf_1,Hand In Shelf
+231,210,shelf_9,Reach To Shelf
+231,211,shelf_9,Reach To Shelf
+231,212,shelf_9,Reach To Shelf
+231,213,shelf_9,Reach To Shelf
+231,214,shelf_9,Reach To Shelf
+233,210,shelf_9,Hand In Shelf
+233,211,shelf_9,Hand In Shelf
+233,212,shelf_9,Hand In Shelf
+233,213,shelf_9,Hand In Shelf
+233,214,shelf_9,Hand In Shelf
+233,242,shelf_1,Hand In Shelf
+233,243,shelf_1,Hand In Shelf
+234,207,shelf_6,Inspect Product
+234,208,shelf_6,Inspect Product
+234,209,shelf_6,Inspect Product
+234,210,shelf_6,Inspect Product
+234,211,shelf_6,Inspect Product
+234,212,shelf_6,Inspect Product
+234,213,shelf_6,Inspect Product
+234,214,shelf_6,Inspect Product
+234,215,shelf_6,Inspect Product
+234,224,shelf_6,Inspect Product
+234,225,shelf_6,Inspect Product
+234,226,shelf_6,Inspect Product
+234,227,shelf_6,Inspect Product
+234,228,shelf_6,Inspect Product
+234,229,shelf_6,Inspect Product
+234,230,shelf_6,Inspect Product
+234,231,shelf_6,Inspect Product
+234,232,shelf_6,Inspect Product
+234,233,shelf_6,Inspect Product
+234,234,shelf_6,Inspect Product
+234,235,shelf_6,Inspect Product
+234,236,shelf_6,Inspect Product
+234,237,shelf_6,Inspect Product
+234,239,shelf_6,Inspect Product
+234,240,shelf_6,Inspect Product
+234,241,shelf_6,Inspect Product
+234,242,shelf_6,Inspect Product
+234,243,shelf_6,Inspect Product
+234,244,shelf_6,Inspect Product
+234,245,shelf_6,Inspect Product
+234,247,shelf_6,Inspect Product
+234,248,shelf_6,Inspect Product
+234,249,shelf_6,Inspect Product
+239,212,shelf_9,Inspect Product
+239,213,shelf_9,Inspect Product
+239,214,shelf_9,Inspect Product
+239,229,shelf_1,Inspect Product
+239,233,shelf_1,Inspect Product
+239,234,shelf_1,Inspect Product
+239,235,shelf_1,Inspect Product
+239,241,shelf_1,Inspect Product
+239,242,shelf_1,Inspect Product
+239,243,shelf_1,Inspect Product
+239,244,shelf_1,Inspect Product
+239,245,shelf_1,Hand In Shelf
+239,246,shelf_1,Hand In Shelf
+239,247,shelf_1,Hand In Shelf
+239,248,shelf_1,Hand In Shelf
+239,249,shelf_1,Hand In Shelf
+239,250,shelf_1,Hand In Shelf
+239,251,shelf_1,Hand In Shelf
+239,252,shelf_1,Hand In Shelf
+239,253,shelf_1,Hand In Shelf
+239,254,shelf_1,Hand In Shelf
+239,255,shelf_1,Hand In Shelf
+239,256,shelf_1,Hand In Shelf
+239,257,shelf_1,Hand In Shelf
+239,258,shelf_1,Hand In Shelf
+239,259,shelf_1,Hand In Shelf
+239,260,shelf_1,Hand In Shelf
+270,244,shelf_2,Background
+270,251,shelf_2,Background

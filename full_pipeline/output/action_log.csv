@@ -1,0 +1,156 @@
+id,start,end,action
+1,0,15,Hand In Shelf
+1,8,39,Inspect Product
+1,32,95,Hand In Shelf
+1,88,119,Inspect Product
+1,112,231,Hand In Shelf
+1,224,239,Inspect Product
+1,232,247,Reach To Shelf
+1,240,255,Hand In Shelf
+2,0,23,Retract From Shelf
+2,16,31,Inspect Shelf
+2,24,39,Inspect Product
+2,32,55,Hand In Shelf
+2,48,63,Reach To Shelf
+2,56,71,Retract From Shelf
+2,64,79,Inspect Shelf
+2,72,103,Hand In Shelf
+2,96,111,Reach To Shelf
+2,104,119,Retract From Shelf
+2,112,183,Hand In Shelf
+3,0,159,Hand In Shelf
+3,152,167,Inspect Product
+3,160,211,Hand In Shelf
+4,0,15,Retract From Shelf
+4,8,23,Inspect Shelf
+4,16,63,Reach To Shelf
+4,56,87,Inspect Shelf
+4,80,95,Retract From Shelf
+5,0,15,Inspect Product
+5,8,48,Reach To Shelf
+6,0,58,Inspect Product
+6,48,66,Inspect Shelf
+6,59,74,Background
+6,67,98,Hand In Shelf
+6,91,114,Retract From Shelf
+6,107,143,Hand In Shelf
+7,0,23,Inspect Product
+8,0,32,Inspect Product
+9,0,15,Hand In Shelf
+9,8,55,Inspect Product
+9,48,71,Retract From Shelf
+9,64,174,Inspect Product
+9,167,182,Hand In Shelf
+9,175,202,Inspect Product
+9,183,246,Hand In Shelf
+9,211,254,Retract From Shelf
+10,0,91,Hand In Shelf
+10,84,107,Inspect Product
+10,100,123,Hand In Shelf
+10,116,131,Background
+10,124,139,Inspect Product
+10,132,171,Hand In Shelf
+10,164,187,Inspect Product
+10,180,203,Hand In Shelf
+10,196,211,Inspect Product
+10,204,243,Hand In Shelf
+11,0,15,Retract From Shelf
+11,8,31,Background
+11,24,42,Inspect Product
+11,32,50,Reach To Shelf
+11,43,74,Retract From Shelf
+11,67,82,Hand In Shelf
+11,75,90,Retract From Shelf
+11,83,98,Reach To Shelf
+11,91,106,Inspect Product
+12,0,63,Inspect Product
+12,24,71,Inspect Shelf
+12,64,90,Inspect Product
+12,80,106,Hand In Shelf
+12,99,114,Inspect Product
+12,107,130,Inspect Shelf
+12,123,163,Hand In Shelf
+12,156,171,Inspect Product
+12,164,179,Background
+12,172,187,Hand In Shelf
+12,180,203,Reach To Shelf
+13,0,15,Inspect Product
+13,8,23,Retract From Shelf
+13,16,47,Inspect Product
+13,40,67,Inspect Shelf
+14,0,15,Inspect Product
+22,12,27,Background
+22,20,43,Reach To Shelf
+22,36,67,Inspect Product
+22,60,91,Reach To Shelf
+22,84,107,Hand In Shelf
+22,100,123,Inspect Product
+22,116,131,Hand In Shelf
+22,124,139,Inspect Product
+22,132,195,Hand In Shelf
+22,188,203,Inspect Product
+22,196,251,Reach To Shelf
+22,244,259,Hand In Shelf
+55,33,71,Background
+55,64,79,Hand In Shelf
+55,72,87,Background
+58,34,49,Inspect Shelf
+81,58,81,Hand In Shelf
+81,74,89,Reach To Shelf
+81,82,97,Retract From Shelf
+81,90,129,Reach To Shelf
+81,122,201,Hand In Shelf
+84,62,82,Inspect Shelf
+107,77,92,Inspect Product
+116,80,95,Inspect Shelf
+116,88,103,Inspect Product
+124,83,106,Reach To Shelf
+131,93,125,Inspect Product
+131,118,133,Hand In Shelf
+131,126,141,Inspect Product
+131,134,165,Hand In Shelf
+131,158,181,Inspect Product
+131,174,197,Hand In Shelf
+131,190,213,Background
+131,206,253,Hand In Shelf
+147,106,132,Inspect Product
+147,125,140,Background
+147,133,156,Hand In Shelf
+147,149,164,Inspect Product
+147,157,188,Hand In Shelf
+147,181,212,Inspect Product
+147,205,220,Retract From Shelf
+147,213,228,Background
+147,221,236,Reach To Shelf
+147,229,260,Inspect Product
+170,116,131,Hand In Shelf
+188,132,168,Retract From Shelf
+188,161,224,Inspect Product
+188,217,248,Background
+188,241,256,Hand In Shelf
+200,141,164,Hand In Shelf
+200,157,172,Inspect Product
+200,165,196,Hand In Shelf
+200,189,204,Inspect Product
+200,197,212,Hand In Shelf
+200,205,220,Background
+200,213,236,Hand In Shelf
+200,229,244,Inspect Product
+200,237,252,Hand In Shelf
+204,145,160,Hand In Shelf
+221,188,211,Hand In Shelf
+221,204,219,Retract From Shelf
+222,190,205,Background
+222,198,213,Inspect Product
+222,206,230,Reach To Shelf
+222,223,246,Inspect Product
+222,239,254,Hand In Shelf
+223,190,205,Hand In Shelf
+231,205,222,Reach To Shelf
+231,215,246,Hand In Shelf
+231,239,254,Inspect Product
+233,207,244,Hand In Shelf
+234,207,254,Inspect Product
+239,212,244,Inspect Product
+239,236,260,Hand In Shelf
+270,239,255,Background
