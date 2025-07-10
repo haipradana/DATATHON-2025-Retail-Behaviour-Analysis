@@ -14,4 +14,7 @@ This full pipeline has deployed on Huggingface Space: https://huggingface.co/spa
 ### Demo Video
 
 📹 [Lihat Demo Video](https://github.com/haipradana/DATATHON-2025-Retail-Behaviour-Analysis/blob/main/demo.mp4)
-[![Demo](https://github.com/haipradana/DATATHON-2025-Retail-Behaviour-Analysis/blob/main/demo-screenshot-half.png)](https://youtu.be/ZtWqnMJQmu0)
+<a href="https://youtu.be/ZtWqnMJQmu0" target="_blank">
+  <img src="https://github.com/haipradana/DATATHON-2025-Retail-Behaviour-Analysis/blob/main/demo-screenshot-half.png?raw=true" width="50%">
+</a>
+
