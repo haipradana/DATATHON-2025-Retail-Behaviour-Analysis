@@ -3,17 +3,18 @@
 ## Overview
 Sistem analitik berbasis AI untuk optimalisasi strategi bisnis melalui analisis perilaku pelanggan dari rekaman CCTV. Menggunakan computer vision dan multimodal transformer untuk memberikan insights actionable bagi strategi bisnis retail.
 
-## 🚀 Key Features
+## Key Features
 - **Segmentasi Rak**: YOLOv11-seg (94.73% precision, 73.37% recall)
 - **Pelacakan Multi-Person**: ByteTrack untuk tracking real-time
 - **Klasifikasi Aksi**: TimeSFormer dengan domain adaptation (75.0% accuracy)
 - **Analisis Behavior**: Heat-map, dwell-time, dan traffic analysis
 - **6 Action Classes**: Reach/Retract from Shelf, Hand in Shelf, Inspect Product/Shelf, Background
 
-## 📊 Outputs
+## Outputs
 - Heat-map visualisasi traffic pelanggan
 - Statistik interaksi per rak
-- Rekomendasi optimasi layout toko
+- Statistik dwell time setiap pelanggan
+- Rekomendasi optimasi layout toko dari keramaian rak
 - Comprehensive behavioral insights
 
 ## Datasets HuggingFace
