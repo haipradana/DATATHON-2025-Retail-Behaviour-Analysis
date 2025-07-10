@@ -1,7 +1,7 @@
 # DATATHON 2025 - Retail Behaviour Analysis
 
 ## Overview
-Sistem analitik berbasis AI untuk optimalisasi strategi sisnis melalui analisis perilaku pelanggan dari rekaman CCTV. Menggunakan computer vision dan multimodal transformer untuk memberikan insights actionable bagi strategi bisnis retail.
+Sistem analitik berbasis AI untuk optimalisasi strategi bisnis melalui analisis perilaku pelanggan dari rekaman CCTV. Menggunakan computer vision dan multimodal transformer untuk memberikan insights actionable bagi strategi bisnis retail.
 
 ## 🚀 Key Features
 - **Segmentasi Rak**: YOLOv11-seg (94.73% precision, 73.37% recall)
