@@ -6,3 +6,4 @@
 
 ## Models HuggingFace
 - Action Recognition Model - Domain Adaptation: https://huggingface.co/haipradana/s-h-o-p-domain-adaptation
+- Shelf Segmentation : https://huggingface.co/cheesecz/shelf-segmentation
