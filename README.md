@@ -14,3 +14,4 @@ This full pipeline has deployed on Huggingface Space: https://huggingface.co/spa
 ### Demo Video
 
 📹 [Lihat Demo Video](https://github.com/haipradana/retail-behavior-analysis/raw/main/demo.mp4)
+[![Demo](https://img.youtube.com/vi/ZtWqnMJQmu0/0.jpg)](https://youtu.be/ZtWqnMJQmu0)
