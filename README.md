@@ -7,3 +7,10 @@
 ## Models HuggingFace
 - Action Recognition Model - Domain Adaptation: https://huggingface.co/haipradana/s-h-o-p-domain-adaptation
 - Shelf Segmentation : https://huggingface.co/cheesecz/shelf-segmentation
+
+## Deployment
+This full pipeline has deployed on Huggingface Space: https://huggingface.co/spaces/haipradana/retail-behavior-analysis
+
+### Demo Video
+
+📹 [Lihat Demo Video](https://github.com/haipradana/retail-behavior-analysis/raw/main/demo.mp4)
