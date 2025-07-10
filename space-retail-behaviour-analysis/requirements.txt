@@ -1,0 +1,15 @@
+gradio
+torch
+numpy 
+pandas
+matplotlib
+decord
+ultralytics
+transformers
+supervision
+shapely
+huggingface_hub
+opencv-python
+google-generativeai
+pillow
+ipython
